@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GPA_stuhlmillerm_Calculator</string>
+    <string name="text_header">GPA Calculator</string>
+    <string name="text_instructions">Enter a grade from 0 to 100 for each course.</string>
+    <string name="grade_hint">0-100</string>
+    <string name="grade_size">5</string>
+    <string name="button_default">Calculate</string>
+    <string name="button_reset">Clear Form</string>
+    <string name="text_output">Calculated GPA:</string>
+    <string name="result_start">Waiting for input...</string>
+    <string name="result_error">Check your input and try again</string>
+</resources>
